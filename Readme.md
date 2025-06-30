@@ -51,4 +51,4 @@ dans votre environement
 
 Les autres fichier permettent de visualiser les resultats ou des transformer les images en texte via easyocr(peut performant)
 
-Avant de run  web_generer_mail.py et generer_mail.py, il faut rentrer votre identifiant mail et mot de passe dans le fichier  et lancer le serveur flask avec python
+Avant de run  web_generer_mail.py et generer_mail.py, il faut utiliser seulement une adresse mail **Outlook** rentrer votre identifiant mail et mot de passe dans le fichier  et lancer le serveur flask avec python
