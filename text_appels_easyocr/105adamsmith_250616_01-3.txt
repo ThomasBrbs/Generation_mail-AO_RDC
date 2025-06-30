@@ -1,0 +1,76 @@
+sorte de trafics et spéculations autour des semences avec une dégradation de la qualité et par voie de
+conséquence de la productivité des agriculteurs locaux.
+C'est
+pourquoi,
+dans   la perspective
+dun engagement
+plus prononcé du secteur privé
+pour
+développement de système de marché pérenne, Adam Smith International propose que la distribution
+des
+semences
+par
+E-Voucher
+soit
+intégrée
+régime
+subvention financière
+travers  les
+institutions financières avec
+comme stratégie de sortie le développement des produits de crédit
+semence
+Ainsi, la
+combinaison
+du   dispositif
+E-Voucher
+avec
+une
+plateforme de transaction financière
+s'impose
+pour
+éviter
+une
+superposition
+dinterfaces   qui
+rendrait
+complexe  |utilisation
+pour   les
+utilisateurs
+au bout de CV. La solution recherchée devra proposer
+Une plateforme E-Voucher dotée de fonctionnalités suivantes
+Création des profils agriculteurs
+Identification des fournisseur de semence et d'intrants certifiés desservant le
+territoire de KAMONIA dans la Province du KASAI
+Enregistrement et identification des agriculteurs
+Géolocalisation
+Calcule des subventions et, le cas échéant, les sommes des crédits semenciers
+Placement des commandes
+Création des profils agri finances interfacés avec les services financiers
+Création des profile FSP
+Création des commandes
+Enregistrement des paiements
+Enregistrement des remboursements
+Création des profils Agribusiness
+Création des profils fournisseurs de semences et d'intrants
+Création des profils agro-dealers
+Confirmation des commandes
+Gestion des stocks
+Création de profile bailleur des fonds ou programme daide
+Enregistrement et validation des intervenants (bénéficiaire et
+prenantes
+Validation des subventions
+Validation des CVA
+Interface admin et reporting
+Création des identifiants agriculteurs
+Business rules
+Suivi des paiements
+Suivi des remboursements
+Suivi de KPIs
+La plateforme doit être dotée dinterfaces suivantes
+API compatible mobile money
+API compatible institutions financières Core banking
+USSD gateway
+Offline et online disponible dès Aout 2025
+Phases de mise en œuvre
+finaux 
+partie

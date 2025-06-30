@@ -1,0 +1,60 @@
+sorte de trafics et spéculations autour des semences avec une dégradation de la qualité et par voie de
+conséquence de la productivité des agriculteurs locaux
+
+C'est pourquoi, dans la perspective d'un engagement plus prononcé du secteur privé pour le
+développement de système de marché pérenne, Adam Smith International propose que la distribution
+des semences par « E-Voucher » soit intégrée au régime de subvention financière à travers les
+institutions financières avec comme stratégie de sortie le développement des produits de crédit
+
+semence.
+
+Ainsi, la combinaison du dispositif « E-Voucher » avec une plateforme de transaction financière
+s'impose pour éviter une superposition d'interfaces qui rendrait complexe l'utilisation pour les
+
+utilisateurs finaux au bout de CV. La solution recherchée devra proposer :
+1. Une plateforme E-Voucher dotée de fonctionnalités suivantes :
+
+a
+
+Création des profils agriculteurs
+i_Identification des fournisseur de semence et d'intrants certifiés desservant le
+territoire de KAMONIA dans la Province du KASAI
+ï Enregistrement et identification des agriculteurs
+iñi, Géolocalisation
+iv. Calcule des subventions et, le cas échéant, les sommes des crédits semenciers
+v. Placement des commandes
+Création des profils agri finances interfacés avec les services financiers
+. Création des profile FSP
+l Création des commandes
+i. Enregistrement des paiements
+jv. Enregistrement des remboursements
+Création des profils Agribusiness
+i. Création des profils fournisseurs de semences et d’intrants
+i. Création des profils agro-dealers
+ffi, Confirmation des commandes
+v. Gestion des stocks
+Création de profile bailleur des fonds ou programme d'aide
+i._ Enregistrement et validation des intervenants (bénéficiaire et partie prenantes)
+f Validation des subventions
+iñi, Validation des CVA
+Interface admin et reporting
+i. Création des identifiants agriculteurs
+j. Business rules
+iñi, Suivi des paiements
+iv. Suivi des remboursements
+v. Suivi de KPIs
+
+2. Laplateforme doit être dotée d'interfaces suivantes
+
+a
+b.
+c.
+d
+
+API compatible mobile money
+API compatible institutions financières Core banking
+USSD gateway
+
+Offline et online disponible dès Aout 2025
+
+3. Phases de mise en œuvre

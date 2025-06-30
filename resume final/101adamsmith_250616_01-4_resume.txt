@@ -1,0 +1,5 @@
+**Résumé du texte :**
+
+Le projet TUDIENZELE vise à digitaliser les chaînes de valeur agricoles en privilégiant la solution E-Voucher pour la distribution des semences et des intrants. Le dispositif doit être intégré de manière unique et transparente pour les utilisateurs, avec un accès via un gateway unique pour les appareils mobiles et numériques.
+
+Le fournisseur doit être une entité morale

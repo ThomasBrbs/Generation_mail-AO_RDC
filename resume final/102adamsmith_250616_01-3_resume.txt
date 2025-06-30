@@ -1,0 +1,8 @@
+**Résumé du texte en français :**
+
+Adam Smith International propose de distribuer les semences par un système de paiement électronique (E-Voucher) intégré au régime de subvention financière. Ce système vise à éviter les multiples interfaces et à faciliter l'utilisation pour les agriculteurs.
+
+Le E-Voucher offre les fonctionnalités suivantes :
+
+* Création de profils agriculteurs
+* Enregistrement des

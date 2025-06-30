@@ -1,0 +1,8 @@
+**Résumé du texte en français :**
+
+Adam Smith International propose de distribuer les semences par un système de paiement électronique appelé "E-Voucher". Ce système vise à éviter les multiples interfaces et à simplifier l'utilisation pour les agriculteurs.
+
+Pour atteindre cet objectif, Adam Smith propose de :
+
+* Créer un système E-Voucher avec des fonctionnalités telles que :
+    * Créer

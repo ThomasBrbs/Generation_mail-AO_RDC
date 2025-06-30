@@ -1,0 +1,13 @@
+**Consortium**
+
+L'offre doit proposer une solution technologique en ROC (Réseaux de communication orale et de collaboration) ou une expérience avérée de déploiement et de gestion des solutions technologiques.
+
+**Requirements**
+
+* Architecture technique
+* Infrastructure
+* Sécurité informatique
+* Gate way et interface
+* Plan de continuité et DRP
+* Couverture géographique
+*

@@ -1,0 +1,42 @@
+**Termes de référence pour une solution digitale des chaînes de valeur agricole et é-voucher dans CADRE du projet TUDIENZELE**
+
+**Informations générales**
+
+* Fonctionnalités principales de la solution : Application mobile (USSD compatible) de distribution de semences et de collecte des données des chaines de valeur agricole et des services financiers digitaux
+
+**Expérience du prest
+
+**Résumé du texte en français :**
+
+Adam Smith International a été chargé de faciliter la connexion entre les acteurs financiers et les acteurs des CV. Cela inclut l'encouragement aux acteurs du marché, les institutions financières et les acteurs du secteur privé à proposer des solutions correspondant à leur stratégie du marché sur le segment ciblé par le projet TUDIENZELE.
+
+L'approche consiste à encourager
+
+**Résumé du texte en français :**
+
+Adam Smith International propose de distribuer les semences par un système de paiement électronique (E-Voucher) intégré au régime de subvention financière. Ce système vise à éviter les multiples interfaces et à faciliter l'utilisation pour les agriculteurs.
+
+Le E-Voucher offre les fonctionnalités suivantes :
+
+* Création de profils agriculteurs
+* Enregistrement des
+
+**Résumé du texte :**
+
+Le projet TUDIENZELE vise à digitaliser les chaînes de valeur agricoles en privilégiant la solution E-Voucher pour déclencher la distribution des semences par un pilote. Le dispositif doit être intégré de manière unique par un "Gate way" pour permettre aux utilisateurs d'y accéder par un "Gate way" unique.
+
+Le fournisseur doit être une
+
+**Consortium**
+
+L'offre doit proposer une solution technologique en ROC (Réseaux de Communication et de Conseil) avec les éléments suivants :
+
+* Architecture technique
+* Infrastructure
+* Sécurité informatique
+* Gate way et interface
+* Plan de continuité et DRP
+* Couverture géographique
+* Durée du projet
+* CRM (Customer Relationship Management)
+

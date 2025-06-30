@@ -1,0 +1,52 @@
+TERMES DE REFERENCE POUR UNE SOLUTION DIGITALE DES CHAINES DE
+VALEUR AGRICOLES ET E-VOUCHER DANS CADRE DU PROJET TUDIENZELE
+
+Informations générales
+«  Fonctionnalités principales de la solution : Application mobile (USSD compatible) de
+distribution de semences et de collecte des données des chaines de valeur agricoles ainsi que
+des services financiers digitaux
+«  Expérience du prestataire : Au moins 10 ans d'expérience prouvée dans le domaine de
+déploiement des solutions mobiles
+« Caractéristiques requises de la solution : Interopérabili
+
+API mobile et IGW.
+
+A propos d’Adam Smith International
+
+Adam Smith International (ASI) travaille en RDC de manière continue depuis 2013. Son empreinte
+remarquable en RDC a permis de mettre en œuvre des programmes de développement des systèmes
+de marché depuis plus de huit ans. Son approche consiste à établir des partenariats avec le secteur privé
+et à soutenir le développement et la mise en œuvre de nouveaux services, produits ou modèles
+d'entreprise.
+
+Grâce à son programme phare ELAN RDC financé par le DFID/FCDO, ASI a apporté des changements au
+système de marché et augmenté les revenus de plus de 855 000 ménages pauvres de plus de 39 millions
+de livres sterling (48 millions de dollars). Depuis 2022, ASI met en œuvre des projets pour USAID. Cela
+inclut le Garamba Alliance Activity (GAA), un accord de coopération financé par USAID à une hauteur de
+7.7 millions de dollars qui permettra de poursuivre une approche de la conservation de la biodiversité,
+basée sur les marchés dans la province du Haut Uélé. Plus récemment, ASI a commencé à mettre en
+œuvre l'activité de sécurité alimentaire résiliente (TUDIENZELE) financé par le Bureau d’Assistance
+Humanitaire (BHA) de USAID, dans la province du Kasaï. Le projet de cinq ans vise à renforcer la capacité
+des populations vulnérables, à lutter contre la malnutrition, à réduire la mortalité, à promouvoir la
+croissance économique, à améliorer la sécurité alimentaire et à s'adapter au changement climatique.
+
+L Contexte et justification
+
+Le projet TUDIENZELE est implémenté par un consortium formé par 5 organisations et financé par
+l'USAID pour une durée de 5 ans et dirigé par ADRA. Les buts de Tudienzele incluent notamment (mais
+ne se limitent pas à) l'augmentation durable des revenus familiaux et l'amélioration des opportunités
+économiques pour les familles. En plus de ces activités, l'équipe aidera les familles à accéder à des
+aliments de qualité, nutritifs et abordables, à les choisir et à les préparer. L’amélioration des
+opportunités économiques passe par l'accès à des solutions financières adaptées permettant
+d’augmenter des flux de capitaux et ainsi de soutenir les autres activités développées par Tudienzele.
+
+Des analyses dans le cadre du raffinement ont été menées afin d'approfondir et de contextualiser les
+informations nécessaires à la prise de décision programmative. Dans ce contexte une cartographie des
+services financiers à été menée dans les zones concernées par Tudienzele. Cette dernière a révélé la
+nécessité pour les intervenants des chaînes de valeur agricoles (ci-après CV)
+
+de disposer d’outils permettant de faciliter la circulation des flux financiers destinés à la transmission
+des opérations de paiement entre les parties prenantes et d'accéder aux produits bancaires, En outre,
+de tels outils doivent permettre de parfaire la connaissance des acteurs impliqués grâce à la collecte
+des données de ces derniers.
+

@@ -1,0 +1,46 @@
+Compte tenue des impératifs du projet TUDIENZELE dans la perspective de l'accès au semences et aux
+intrants, il est demandé de déployer le dispositif de digitalisation des chaines de valeur agricoles en
+priorisant la solution E-Voucher pour déclencher la distribution des semences par un pilote au courant
+de cette année fiscale USAID-RFSA TUDIENZELE qui s'achève le 30 Septembre. Le pahsage ci-dessous
+est proposé, en gardant à l'esprit que le dispositif, à termes, a vocation à etre complètement intégré
+permettant aux utilisateur d'y accéder par un « Gate way » unique. ( USSD et mobile app)
+
+A Portail et application
+
+d'accès aux informations
+des intervenants des
+
+Offre des produits et chaines de valeur agricole
+services financiers aux alnsi que des processus
+chaînes de valeur agricoles comimerciaux Production-
+
+z ; E entreposage-
+
+Solution E-Voucher pour la (Réingegnerie des produits transformation:tratisport-
+
+distribution des semences de finance agricole) livraison
+
+et des intrants
+
+Aout 2025
+
+Profil exigé du fournisseur
+
+Le(s) fournisseur(s) de la solution doit (doivent) être une entité morale disposant de personnalité
+juridique établie et confirmée en RDC répondant aux invariants de conformité légale et réglementaire
+en vigueur en RDC et compatible au cadre des régimes AML/CFT/LAB compatible OFAC et reconnu en
+tant que :
+
+a) Fintech et agritech agréé disposant des licences nécessaire pour opérer en RDC
+b) Établissement de crédit agrée par la Banque Centrale du Congo
+a. Banque Commerciale
+b._Institution de Microfinance
+c. Emetteur des monnaies électroniques
+«) Forme juridique :
+a. Société commerciale
+iL SA
+f, SARL
+ü SAS
+iv. Coopérative d'épargne et de Crédit
+
+v. GlE

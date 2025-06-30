@@ -1,0 +1,1 @@
+Dans le DAO, les cases correspondantes doivent être cochées avant de pouvoir être versées dans la soumission.

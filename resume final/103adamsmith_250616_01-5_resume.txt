@@ -1,0 +1,7 @@
+**Consortium**
+
+L'offre doit proposer une solution technologique pour un consortium.
+
+**Informations complémentaires**
+
+* L'offre doit inclure un dossier technique, un dossier financier et commercial, une description de l'infrastructure, la sécurité informatique et les bases de données, le modèle économique, le plan de continuité et la stratégie Go To Market, ainsi que les informations de contact.

@@ -1,0 +1,5 @@
+**Résumé du texte en français :**
+
+Le Ministère des Finances du Congo a reçu un financement de l'Agence Française de Développement (AFD) via le Projet PAMIR. Ce financement permettra de concevoir et développer un portail web de facilitation d'accès aux recettes publiques.
+
+Les services du candidat seront la conception et le développement d'un portail web qui mettra à jour l'ensemble des

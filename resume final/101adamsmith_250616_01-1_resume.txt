@@ -1,0 +1,7 @@
+**Termes de référence pour une solution digitale des chaînes de valeur agricole et d'e-voucher dans CADRE du projet TUDIENZELE**
+
+**Informations générales**
+
+* Fonctionnalités principales de la solution : Application mobile (USSD compatible) de distribution de semences et de collecte des données des chaines de valeur agricole et des services financiers digitaux
+
+**Expérience

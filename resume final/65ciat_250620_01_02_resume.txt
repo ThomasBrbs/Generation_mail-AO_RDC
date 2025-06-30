@@ -1,0 +1,6 @@
+**Résumé des spécifications techniques des semences marraichères**
+
+| Variété | Période à la maturité | Durée après repiquage | Rendement |
+|---|---|---|---|
+| Copenhengen | 80-100 jours | 25-40 | 25-40 T/ha |
+| Aubergine
