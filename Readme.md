@@ -33,7 +33,6 @@ dans votre environement
 - BeautifulSoup
 - Matplotlib
 - Seaborn
-- beautifull soup
 
 **A installer au préalable**    
 - Ollama (https://ollama.com/download)
